@@ -228,3 +228,6 @@ section:not(.cardpage) {
 .template {
     display: none;
 }
+a{
+    color: #1565c0;
+}
